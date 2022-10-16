@@ -1,4 +1,4 @@
-# budget-app
+# tracker-app
 
 ## Description
 App to control finances. Technologies I have used: HTML, CSS, Javascript.
@@ -11,7 +11,7 @@ App to control finances. Technologies I have used: HTML, CSS, Javascript.
 * [Linkedin]()
 
 ## View App online
-[BudgetApp]()
+[TrackerApp]()
 
 
 
